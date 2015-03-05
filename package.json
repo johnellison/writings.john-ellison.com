@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "ghost": "^0.5.9"
+  }
+}
